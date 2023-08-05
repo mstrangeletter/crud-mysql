@@ -1,0 +1,20 @@
+{
+  "name": "crud-mysql",
+  "version": "1.0.0",
+  "description": "Proyecto para consolidar conocimientos en el back con mysql, node, express y en el front con react, material ui y react router",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Miguel Cartagena",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.0"
+  }
+}
